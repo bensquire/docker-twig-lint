@@ -1,6 +1,6 @@
 # docker-twig-lint
 
-A docker image for that allows us to run [asm89/twig-lint](https://github.com/asm89/twig-lint) which is a library designed to validate the compilability of twig templates.
+A docker image that allows us to run [asm89/twig-lint](https://github.com/asm89/twig-lint) which is a library designed to validate the compilability of twig templates.
 
 Ideal for continuous integration pipelines.
 
